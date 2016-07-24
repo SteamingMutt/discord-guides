@@ -7,7 +7,7 @@ Create some using the plus buttons
 
 ![+Buttons](http://i.imgur.com/ZYCzkOb.png)
 
-This will bring up a window wherein you can select then name, and basic permissions about the new channel.  
+This will bring up a window wherein you can select the name, and basic permissions about the new channel.  
 The permissions you can select here refer to `Read Messages` permission, but we'll set up more later.
 
 ![channelcreate](http://i.imgur.com/PmU7Gg2.png)
