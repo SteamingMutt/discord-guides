@@ -27,6 +27,7 @@ Now, we can define who can and who can't access this channel.
 - Select what each role can and can't do
 ![mods](http://i.imgur.com/sW8e0I4.png)
 ![everyone](http://i.imgur.com/Q34VLv4.png)
+
 > Pro tip: the @everyone role refers all people who don't have special permissions for this channel 
 
 You can also select people instead of roles to set permissions for them.  
