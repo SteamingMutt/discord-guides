@@ -24,15 +24,22 @@
         "name": "Direct Messages and Friends: The Basics",
         "file": "direct-messages-and-friends.md"
       },
-
       {
         "name": "Server Overview",
         "file": "server-overview.md"
       },
-
       {
         "name": "Messages",
         "file": "messages.md"
+      },
+      {
+        "name": "Inviting a Bot Account to your Server",
+        "file": "inviting-bot-account.md"
+      },
+      {
+        "name": "Nicknames",
+        "file": "nicknames.md"
+        
       }
     ]
   },
@@ -46,12 +53,14 @@
         "name": "Kicks and Bans",
         "file": "kicks-and-bans.md"
       },
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
       {
         "name": "Creating a Channel",
         "file": "creating-a-channel.md"
       },
-
       {
         "name": "Server Best Practices",
         "file": "server-best-practices.md"
@@ -68,10 +77,20 @@
         "name": "Create a Bot Account",
         "file": "create-a-bot-account.md"
       },
+<<<<<<< HEAD
 
       {
         "name": "Using the Discord API",
         "file": "using-the-discord-api.md"
+=======
+      {
+        "name": "Using the Discord API",
+        "file": "using-the-discord-api.md"
+      },
+      {
+        "name": "Bot Best Practices for Public Bots",
+        "file": "bot-best-practices.md"
+>>>>>>> master
       }
     ]
   }
